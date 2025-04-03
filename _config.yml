@@ -80,6 +80,9 @@ categorythemes:
   middleclass:
     name: 中级课文
     tag: middleclass
+  highclass:
+    name: 高级课文
+    tag: highclass
   tools:
     name: 工具
     tag: tools
